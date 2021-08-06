@@ -1,7 +1,8 @@
 ﻿###############################################################################
 #    Title:        DC Replication Fix
 #    Revision:     1.5 (PUBLIC)
-#    Author:       DrPrEsq ; https://github.com/potr/adfix
+#    Author:       George <drpresq@gmail.com>
+#    URL:          https://github.com/drpresq/ADFix
 #    Date:         28 June 2017
 #
 #    Purpose:      To restore replication between DC and FSMO Master when replication is failing
