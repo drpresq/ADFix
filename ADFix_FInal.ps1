@@ -89,13 +89,6 @@ Function ExitFunc
         Write-Host 'Press Enter to exit the script.'
         Read-Host
         Clear Host
-        Write-Host "                   :::::::::   :::::::: ::::::::::: ::::::::: "
-        Write-Host "                 :+:    :+: :+:    :+:    :+:     :+:    :+:  "
-        Write-Host "                +:+    +:+ +:+    +:+    +:+     +:+    +:+   "
-        Write-Host "               +#++:++#+  +#+    +:+    +#+     +#++:++#:     "
-        Write-Host "              +#+        +#+    +#+    +#+     +#+    +#+     "
-        Write-Host "             #+#        #+#    #+#    #+#     #+#    #+#      "
-        Write-Host "            ###         ########     ###     ###    ###       "
         Start-Sleep -s 3
         exit
     }
@@ -113,14 +106,6 @@ Function ExitFunc
     
     Read-Host
     Clear Host
-    Write-Host
-    Write-Host "                   :::::::::   :::::::: ::::::::::: ::::::::: "
-    Write-Host "                 :+:    :+: :+:    :+:    :+:     :+:    :+:  "
-    Write-Host "                +:+    +:+ +:+    +:+    +:+     +:+    +:+   "
-    Write-Host "               +#++:++#+  +#+    +:+    +#+     +#++:++#:     "
-    Write-Host "              +#+        +#+    +#+    +#+     +#+    +#+     "
-    Write-Host "             #+#        #+#    #+#    #+#     #+#    #+#      "
-    Write-Host "            ###         ########     ###     ###    ###       "
     start-sleep 3
     shutdown -r -t 0
 }
