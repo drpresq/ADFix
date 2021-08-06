@@ -8,9 +8,9 @@ Restores replication between DC and FSMO Master caused by unreliable network com
 
 # Dependancies: 
 
-1 Access to the desktop of the affected DC via a Domain Administrator Account
-2 A Copy of this script on the desktop of the affected DC
-3 Connectivity between the affected DSC and the FSMO Master
+1. Access to the desktop of the affected DC via a Domain Administrator Account
+2. A Copy of this script on the desktop of the affected DC
+3. Connectivity between the affected DSC and the FSMO Master
     
 # How to Run   
 
